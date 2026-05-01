@@ -20,8 +20,8 @@ I'm a passionate developer exploring software development with curiosity and ded
   <tbody>
     <tr>
       <td style="width: 50%; vertical-align: top; padding: 10px;">
-        <img src="https://raw.githubusercontent.com/YusufBilalOzkaya/BlackHole/main/app.png" alt="Blackhole" style="width: 100%; max-width: 400px; border-radius: 10px; border: 1px solid #ddd;">
-        <p style="margin-top: 10px; font-weight: bold; font-family: sans-serif;"><a href="https://github.com/YusufBilalOzkaya/BlackHole">Blackhole</a></p>
+        <img src="https://raw.githubusercontent.com/YusufB5/BlackHole/main/app.png" alt="Blackhole" style="width: 100%; max-width: 400px; border-radius: 10px; border: 1px solid #ddd;">
+        <p style="margin-top: 10px; font-weight: bold; font-family: sans-serif;"><a href="https://github.com/YusufB5/BlackHole">Blackhole</a></p>
         <p style="font-size: 14px; color: #666;">A feature-rich application</p>
       </td>
       <td style="width: 50%; vertical-align: top; padding: 10px;">
