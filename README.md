@@ -26,8 +26,8 @@ I'm a passionate developer exploring software development with curiosity and ded
       </td>
       <td style="width: 50%; vertical-align: top; padding: 10px;">
         <img src="https://github.com/YusufB5/YusufB5-Simple-Basket-Game/blob/main/cc5d83f5-30b7-49d8-8a28-1e87b6630d65.png?raw=true" alt="Basketball Game" style="width: 40%; max-width: 400px; border-radius: 10px; border: 1px solid #ddd;">
-        <p style="margin-top: 10px; font-weight: bold; font-family: sans-serif;"><a href="">Basketball Game</a></p>
-        <p style="font-size: 14px; color: #666;">Interactive gaming experience</p>
+        <p style="margin-top: 10px; font-weight: bold; font-family: sans-serif;"><a href="https://github.com/YusufB5/YusufB5-Simple-Basket-Game">Basketball Game</a></p>
+        <p style="font-size: 14px; color: #666;">simple gaming with c++/raylib</p>
       </td>
     </tr>
   </tbody>
