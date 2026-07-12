@@ -35,11 +35,6 @@ Developer & Engineer.
     </tr>
     <tr>
       <td style="width: 50%; vertical-align: top; padding: 15px;">
-        <img src="https://raw.githubusercontent.com/YusufB5/BlackHole/main/app.png" alt="Blackhole" style="width: 100%; max-width: 400px; border-radius: 6px; border: 1px solid #333;">
-        <p style="margin-top: 15px; font-weight: bold;"><a href="https://github.com/YusufB5/BlackHole" style="text-decoration: none; color: inherit;">Blackhole</a></p>
-        <p style="font-size: 14px; color: #888;">A feature-rich tactical application.</p>
-      </td>
-      <td style="width: 50%; vertical-align: top; padding: 15px;">
         <img src="https://github.com/YusufB5/YusufB5-Simple-Basket-Game/blob/main/cc5d83f5-30b7-49d8-8a28-1e87b6630d65.png?raw=true" alt="Basketball Game" style="width: 40%; max-width: 400px; border-radius: 6px; border: 1px solid #333;">
         <p style="margin-top: 15px; font-weight: bold;"><a href="https://github.com/YusufB5/YusufB5-Simple-Basket-Game" style="text-decoration: none; color: inherit;">Basketball Game</a></p>
         <p style="font-size: 14px; color: #888;">Physics-based mechanics built with C++ and Raylib.</p>
